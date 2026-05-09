@@ -1,4 +1,4 @@
-# Financial Transaction Analysis: Clustering & Classification 🚀
+# Financial Transaction Analysis: Clustering & Classification 💸📊
 
 Proyek ini bertujuan untuk menganalisis perilaku transaksi keuangan nasabah menggunakan teknik Machine Learning. Dengan menggabungkan metode *Unsupervised Learning* (Clustering) dan *Supervised Learning* (Classification), proyek ini mampu mengidentifikasi segmen nasabah dan memprediksi kategori transaksi secara otomatis.
 
